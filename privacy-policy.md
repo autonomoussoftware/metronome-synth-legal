@@ -2,13 +2,14 @@
 
 ### Overview
 
-Effective Date: December 06, 2022
+Effective Date: January 10, 2023
 
-This Privacy Notice explains how Autonomous Software (“Metronome” or “we,” “us,” or “our”) collects, uses, and discloses information about you when you visit, access, or use our websites, domains, applications, software, and other online products and services, including online portals and our network (collectively, the “Services”) or when you otherwise interact with us. By visiting https://metronome.io (the “Site”) or otherwise using our Services, you acknowledge the practices described in this Privacy Notice. We will occasionally change this Privacy Notice. When we do, we will notify you by revising the date at the top of this Privacy Notice and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Notice whenever you access the Services or otherwise interact with us to stay informed about our information practices and the choices available to you.
+This Privacy Notice explains how Autonomous Software (“we,” “us,” or “our”) collects, uses, and discloses information about you when you visit, access, or use our websites, domains, applications, software, and other online products and services, including online portals and our network (collectively, the “Services”) or when you otherwise interact with us. By visiting https://metronome.io (the “Site”) or otherwise using our Services, you acknowledge the practices described in this Privacy Notice.
+We will occasionally change this Privacy Notice. When we do, we will notify you by revising the date at the top of this Privacy Notice and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Notice whenever you access the Services or otherwise interact with us to stay informed about our information practices and the choices available to you.
 
 ### Contact Us
 
-If you have any questions about this Privacy Notice, you may contact us via email at info@metronome.io.
+If you have any questions about this Privacy Notice, you may contact us via email at hello-met@metronome.io
 
 ### Information We Collect
 
